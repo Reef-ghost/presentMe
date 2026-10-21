@@ -20,7 +20,7 @@ struct SwiftUIView_1: View {
                     .frame(width:120 , height: 120)
                     .clipShape(.circle)
                 
-                Text("Reef, |(23)")
+                Text("Reef")
                     .font(.title)
                     .fontWeight(.semibold)
                 
